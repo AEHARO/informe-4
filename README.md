@@ -47,7 +47,11 @@
 
 6. BIBLIOGRAFÍA
 
+Teorema de superposiciÃ3n. (s. f.-b). teorema. Recuperado 29 de junio de 2022, de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
 
+Redes delta-estrella de resistencias (artículo). (s. f.). Khan Academy. Recuperado 29 de junio de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-delta-wye-resistor-networks
+
+wikiHow. (2022, 3 febrero). Cómo calcular la resistencia total en un circuito. Recuperado 29 de junio de 2022, de https://es.wikihow.com/calcular-la-resistencia-total-en-un-circuito
 RUBRICA
 
 ![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
