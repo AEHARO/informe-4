@@ -52,6 +52,12 @@ Teorema de superposiciÃ3n. (s. f.-b). teorema. Recuperado 29 de junio de 2022, 
 Redes delta-estrella de resistencias (artículo). (s. f.). Khan Academy. Recuperado 29 de junio de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-delta-wye-resistor-networks
 
 wikiHow. (2022, 3 febrero). Cómo calcular la resistencia total en un circuito. Recuperado 29 de junio de 2022, de https://es.wikihow.com/calcular-la-resistencia-total-en-un-circuito
+
+Caída de Tensión y Bajo Voltaje. (s. f.). new line. Recuperado 202–06-29, de https://corpnewline.com/caida-de-tension.htm
+
+Alvarado, H., & Alvarado, H. (2021, 5 octubre). Henry Alvarado. Slideshare. Recuperado 29 de junio de 2022, de https://www.slideshare.net/khenryhgaj/redes-en-escalera-metodo-1
+
 RUBRICA
+
 
 ![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
