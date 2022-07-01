@@ -3,6 +3,7 @@
 
 1. OBJETIVOS
 
+conocer  y aplicar los teoremas vistos en las unidades 7 y 8 , describir y reconocer las carctersiticas de una fuente de voltaje y de corriente.
 
 objetivos especificos:
 
