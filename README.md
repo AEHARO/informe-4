@@ -40,6 +40,37 @@
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
+![image](https://user-images.githubusercontent.com/105679480/176825814-4514d094-e78b-4492-86a1-fcc7b941431f.png)
+![image](https://user-images.githubusercontent.com/105679480/176825827-e8693bcc-d163-44a7-b449-9c774abf3dac.png)
+![image](https://user-images.githubusercontent.com/105679480/176825899-e8541604-78b0-4c67-b305-1064b0ade442.png)
+![image](https://user-images.githubusercontent.com/105679480/176825939-eb202483-e48f-418f-99cf-f0d4fbb32aca.png)
+![image](https://user-images.githubusercontent.com/105679480/176825872-b89bc748-1065-4e0b-908d-c1bd3f71c723.png)
+![image](https://user-images.githubusercontent.com/105679480/176825975-c08be31c-477c-4326-b265-2cde2e3ae49c.png)
+![image](https://user-images.githubusercontent.com/105679480/176826058-8da4ba57-1bf2-44f5-87dc-ee6e93b5f842.png)
+![image](https://user-images.githubusercontent.com/105679480/176826079-4fb3d736-8813-486b-9f58-3d5b260d6a53.png)
+![image](https://user-images.githubusercontent.com/105679480/176826123-6685fa08-f2cf-44eb-bf5d-fdf386f53f5a.png)
+![image](https://user-images.githubusercontent.com/105679480/176826149-d4370a81-a99f-4875-8820-cf32ba3d436c.png)
+![image](https://user-images.githubusercontent.com/105679480/176826191-26b1c57e-9e3c-4181-98c5-0dce7849a820.png)
+![image](https://user-images.githubusercontent.com/105679480/176826211-98f42e15-7d9d-4fca-a856-82a399e7a9a3.png)
+![image](https://user-images.githubusercontent.com/105679480/176826238-691feeb1-3fc3-4648-b6d2-345441182853.png)
+![image](https://user-images.githubusercontent.com/105679480/176826335-e407c7c2-8a86-4dab-b122-8402a7d24d04.png)
+![image](https://user-images.githubusercontent.com/105679480/176826366-85b49127-ce1c-4fd6-9b68-4fbb1bb1bd32.png)
+![image](https://user-images.githubusercontent.com/105679480/176826396-413ce9f4-3363-4cac-a5b1-75258e15a607.png)
+![image](https://user-images.githubusercontent.com/105679480/176826427-70ecf4d7-ceae-4672-ba30-ed5d2ffb2745.png)
+![image](https://user-images.githubusercontent.com/105679480/176826458-139493aa-b9d6-4416-92dc-09e12cb2f239.png)
+![image](https://user-images.githubusercontent.com/105679480/176826497-96204680-1384-4388-8825-ed8f00af1d8b.png)
+![image](https://user-images.githubusercontent.com/105679480/176826529-77f151fc-d374-45d3-84af-8b760be6052e.png)
+![image](https://user-images.githubusercontent.com/105679480/176826589-a2f032d8-beb7-4f97-bbe3-b58f8f6baee2.png)
+![image](https://user-images.githubusercontent.com/105679480/176826633-fc1da4bd-bd81-4561-ae61-bd2bb78e49f9.png)
+![image](https://user-images.githubusercontent.com/105679480/176826744-9253020d-480a-4781-b69a-e5adec1c065b.png)
+![image](https://user-images.githubusercontent.com/105679480/176826783-73409331-6db7-49a5-b0ff-6f141d9dfe07.png)
+![image](https://user-images.githubusercontent.com/105679480/176826817-a05a8fd2-7737-4d64-8ad5-8921ddfe8a90.png)
+![image](https://user-images.githubusercontent.com/105679480/176826841-762dcef6-45af-4cf0-a967-2b09728bf80e.png)
+![image](https://user-images.githubusercontent.com/105679480/176826877-c6044499-efcc-4d0d-b76f-7e89eee73f48.png)
+![image](https://user-images.githubusercontent.com/105679480/176826955-367887ac-5ec4-49c8-a6f0-d68f93d11b44.png)
+![image](https://user-images.githubusercontent.com/105679480/176826979-3422a9d6-41a7-4d8e-b2e1-261b11dc206f.png)
+![image](https://user-images.githubusercontent.com/105679480/176827033-7daaf06c-fee2-4397-a5e6-0d3e6ed9bc7f.png)
+![image](https://user-images.githubusercontent.com/105679480/176827061-b10ccd8f-be67-479e-8475-8f6113a95f7b.png)
 
 5. CONCLUSIONES
 
