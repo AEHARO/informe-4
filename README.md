@@ -4,7 +4,21 @@
 1. OBJETIVOS
 
 
+objetivos especificos:
 
+analisar redes en escalera
+
+analizar divisores de voltaje de carga
+
+identificar las relaciones serie-paralelo
+
+describir las caractersiticas de un a fuente de voltaje 
+
+aplicar el teorema de Thevenin para simplificar el analis de circuitos 
+
+aplicar el teorema de Norton para simplificar un curcuito 
+
+realizar conversiones de delta a Y y viceversa 
 
 2. MARCO TEÓRICO (RESUMEN)
 
@@ -78,6 +92,25 @@ https://youtu.be/rwlsokRV8sM
 
 6. CONCLUSION
 
+◆ Para determinar corrientes de rama, aplique la fórmula del divisor de corriente, la ley de la corriente de
+Kirchhoff o ley de Ohm. Considere cada problema de circuito individualmente para encontrar el método más apropiado
+
+◆ Para determinar la resistencia total de una red en escalera, inicie en el punto más alejado de la fuente y
+reduzca la resistencia a pasos
+
+◆ Un circuito en serie-paralelo es una combinación de trayectorias tanto en serie como en paralelo
+
+◆ Una fuente de voltaje ideal tiene resistencia interna de cero. Proporciona un voltaje constante entre las
+terminales sin importar la resistencia de carga.
+
+◆ El teorema de superposición es útil para circuitos de fuentes múltiples
+
+
+◆ El teorema de Norton permite reducir cualquier circuito resistivo lineal de dos terminales a una forma equivalente compuesta por una fuente de corriente equivalente en paralelo con una resistencia
+equivalente.
+
+◆ El teorema de Thevenin permite reducir cualquier circuito resistivo lineal de dos terminales a una forma
+equivalente compuesta por una fuente de voltaje equivalente en serie con una resistencia equivalente
 
 
 6. BIBLIOGRAFÍA
